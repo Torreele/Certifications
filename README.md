@@ -52,7 +52,7 @@ Microsoft learning is deprecated, lets play with **Microsoft Learn**
 
 ## 2021 mosts valuables certifications/exams
 * [AZ-900:Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
-* [Exam 98-361: Software Development Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/98-361) **Retired 30/06/2022 **
+* [Exam 98-361: Software Development Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/98-361) **Retired 30/06/2022**
 
 ## Azure path
 [Upskills with Azure certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh)
