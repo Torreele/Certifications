@@ -1,4 +1,4 @@
-# Microsoft path to expertise
+# Microsoft .NET -  path to expertise
 
 ## [The 10 reasons why](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4FRd2)
 * "Microsoft Learn" new role/tasks-based training camp
@@ -19,9 +19,9 @@
 
 ### MCSA (Microsoft Certified Solutions Associate)
 * [MCSA: Web Applications ](https://docs.microsoft.com/en-us/learn/certifications/mcsa-web-applications-certification/)
-  * 70-486: Developing ASP.NET MVC Web Applications
-  * 70-483: Programming in C#
-  * 70-480: Programming in HTML5 with JavaScript and CSS3i
+  * [70-486: Developing ASP.NET MVC Web Applications](https://docs.microsoft.com/en-us/learn/certifications/exams/70-486)
+  * [70-483: Programming in C#](https://docs.microsoft.com/en-us/learn/certifications/exams/70-483)
+  * [70-480: Programming in HTML5 with JavaScript and CSS3](https://docs.microsoft.com/en-us/learn/certifications/exams/70-480)
 * [Exam 70-487: Developing Microsoft Azure and Web Services](https://docs.microsoft.com/en-us/learn/certifications/exams/70-487)
 * [MCSA: SQL 2016 Database Administration](https://docs.microsoft.com/en-us/learn/certifications/mcsa-sql2016-database-administration-certification/)
   * [70-764: Administering a SQL Database Infrastructure](https://docs.microsoft.com/en-us/learn/certifications/exams/70-764)
@@ -29,20 +29,20 @@
 * [MCSA: SQL 2016 Database Development](https://docs.microsoft.com/en-us/learn/certifications/mcsa-sql2016-database-development-certification/)
   * [70-761: Querying Data with Transact-SQL](https://docs.microsoft.com/en-us/learn/certifications/exams/70-761)
   * [70-762: Developing SQL Databases](https://docs.microsoft.com/en-us/learn/certifications/exams/70-762)
-* [MCSA: SQL Server 2012/2014] (https://docs.microsoft.com/en-us/learn/certifications/mcsa-sql-certification/)
+* [MCSA: SQL Server 2012/2014](https://docs.microsoft.com/en-us/learn/certifications/mcsa-sql-certification/)
   * [70-461: Querying Microsoft SQL Server 2012/2014](https://docs.microsoft.com/en-us/learn/certifications/exams/70-461)
   * [70-462: Administering Microsoft SQL Server 2012/2014 Databases](https://docs.microsoft.com/en-us/learn/certifications/exams/70-462)
   * [70-463: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014](https://docs.microsoft.com/en-us/learn/certifications/exams/70-463)
 
 ### MTA (Microsoft Technology Associate)
-* [(98-382)](https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-javascript/):MTA: Introduction to Programming Using JavaScript
-* [(98-383)](https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-html-and-css/):MTA: Introduction to Programming Using HTML and CSS
-* [(98-384)](https://docs.microsoft.com/en-us/learn/certifications/mta-database-fundamentals/):MTA: Database Fundamentals
-* [(98-361)](https://docs.microsoft.com/en-us/learn/certifications/mta-software-development-fundamentals/):MTA: Software Development Fundamentals 
-* [(98-375)](https://docs.microsoft.com/en-us/learn/certifications/mta-html5-application-development-fundamentals/):MTA: HTML5 Application Development Fundamentals
-* [(98-381)](https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-python/):MTA: Introduction to Programming Using Python
-* [(98-366)](https://docs.microsoft.com/en-us/learn/certifications/mta-networking-fundamentals/):Exam 98-366: Networking Fundamentals
-* [(98-368)](https://docs.microsoft.com/en-us/learn/certifications/exams/98-368):Mobility and Devices Fundamentals
+* [98-382: MTA: Introduction to Programming Using JavaScript](https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-javascript/)
+* [98-383: MTA: Introduction to Programming Using HTML and CSS](https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-html-and-css/)
+* [98-384:MTA: Database Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/mta-database-fundamentals/)
+* [98-361:MTA: Software Development Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/mta-software-development-fundamentals/)
+* [98-375:MTA: HTML5 Application Development Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/mta-html5-application-development-fundamentals/)
+* [98-381:MTA: Introduction to Programming Using Python](https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-python/)
+* [98-366 (exam) Exam 98-366: Networking Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/mta-networking-fundamentals/)
+* [98-368 (Exam) Mobility and Devices Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/98-368)
 
 
 ## [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
