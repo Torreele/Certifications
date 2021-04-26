@@ -56,7 +56,6 @@ Microsoft learning is deprecated, lets play with **Microsoft Learn**
       or 
       [Exam AZ-204: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
 * [AZ-900: Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
-* [AZ-204: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
 * [Exam 98-361: Software Development Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/98-361) **Retired 30/06/2022**
 
 ## Azure path
