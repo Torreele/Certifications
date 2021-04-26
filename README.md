@@ -1,5 +1,7 @@
 # Microsoft .NET -  path to expertise
 
+![Microsoft Certified](https://krispitech.com/wp-content/uploads/2020/09/Microsoft-Certification.png)
+
 ## [11 reasons why](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4FRd2)
 * "Microsoft Learn" new role/tasks-based training camp
 * Recognition from Microsoft as an expert
