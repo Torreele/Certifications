@@ -10,7 +10,7 @@
 * New career
 * Cloud guidance
 * Employer admiration
-* Excitement and carrer adrenalyne
+* Excitement and career adrenaline
 * Thanks for the recommendations
 
 ## Certifications retirement
