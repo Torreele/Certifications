@@ -40,8 +40,8 @@
 * [98-384: MTA: Database Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/mta-database-fundamentals/)
 * [98-375: MTA: HTML5 Application Development Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/mta-html5-application-development-fundamentals/)
 * [98-381: MTA: Introduction to Programming Using Python](https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-python/)
-* [98-366 (exam) Networking Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/mta-networking-fundamentals/)
-* [98-368 (Exam) Mobility and Devices Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/98-368)
+* [98-366 (Exam): Networking Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/mta-networking-fundamentals/)
+* [98-368 (Exam): Mobility and Devices Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/98-368)
 
 
 ## [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
@@ -52,7 +52,7 @@ Microsoft learning is deprecated, lets play with **Microsoft Learn**
 
 ## 2021 mosts valuables certifications/exams
 * [AZ-900:Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
-*/!\ Retired 30/06/2022 [Exam 98-361: Software Development Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/98-361) 
+* [Exam 98-361: Software Development Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/98-361) **Retired 30/06/2022 **
 
 ## Azure path
 [Upskills with Azure certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh)
