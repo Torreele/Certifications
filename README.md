@@ -50,6 +50,7 @@ Microsoft learning is deprecated, lets play with **Microsoft Learn**
 * Step by step and tasks based
 * Sandbox
 * Levels and XPs
+* [dotnet path](https://docs.microsoft.com/en-us/learn/dotnet/)
 
 ## 2021 mosts valuables certifications/exams
 * Microsoft Certified: DevOps Engineer Expert
